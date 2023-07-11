@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lpj145" alt="lpj145" /></a> </p>
 
-- 🔭 I’m currently working at **<a href="https://www.fridayfinance.com/" target="_blank">Friday Finance</a>**
+- 🔭 I’m currently looking for a new role position as developer here are **<a href="" target="_blank">My Cover Letter</a>**
 
 - 🌱 I’m currently learning **Rust**
 
