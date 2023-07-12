@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently looking for a new role position as a developer here is **<a href="https://docs.google.com/document/d/1U7Hk8B-gi_vK3ZT0oQ6QUr2oXsanYF6n1M_Ro5g5tKc/edit?usp=sharing" target="_blank">My Cover Letter</a>**
 
-- <a href="https://github.com/lpj145/lpj145/blob/main/Marcos%20Dantas%20Resume.pdf" target="_blank">Here Is My CV</a>
+- <a href="https://github.com/lpj145/lpj145/blob/main/Marcos%20Dantas%20B%20(1).pdf" target="_blank">Here Is My CV</a>
 
 - 🌱 I’m currently learning **Rust**
 
