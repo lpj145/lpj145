@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lpj145" alt="lpj145" /></a> </p>
 
-- <a href="https://github.com/lpj145/lpj145/blob/main/Marcos%20Dantas%20B%20(1).pdf" target="_blank">Here Is My CV</a>
-
 - 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Rust, Php, Vue projects**
