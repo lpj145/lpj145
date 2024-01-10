@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **marcos.adantas@hotmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/TgUm9vxvP](https://resume.io/r/TgUm9vxvP)
-
 - ⚡ Fun fact **i'm happy and so smooth :)**
 
 <h3 align="left">Connect with me:</h3>
